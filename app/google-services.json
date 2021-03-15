@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499342664801",
+    "project_id": "sams-8d86e",
+    "storage_bucket": "sams-8d86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499342664801:android:ba1f96059458c041d13620",
+        "android_client_info": {
+          "package_name": "sss.com.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499342664801-faqlcnhk4bl03a14u1rajsos2j70in1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYJ09f57k2Iz7UoiuPaFhhiTubbHl-8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499342664801-faqlcnhk4bl03a14u1rajsos2j70in1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
